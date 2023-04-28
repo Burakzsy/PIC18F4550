@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"C:\Users\Burak\Desktop\Mikroiþlemci\Trudyo PIC18F4550\Kodlar\7-PWM\pwm_reg\pwm.mcppi" -SP"C:\Program Files\MikroElektronika\mikroC PRO for PIC\Defs\" -SP"C:\Program Files\MikroElektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Burak\Desktop\Mikroiþlemci\Trudyo PIC18F4550\Kodlar\7-PWM\pwm_reg\" -IP"C:\Program Files\MikroElektronika\mikroC PRO for PIC\uses\P18\" "pwm.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	pwm.c
+diagnostics: 53	123	Compiled Successfully	pwm.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 2026 (99%)	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 2026 (99%)
+hint: 0	1144	Used ROM (bytes): 144 (1%)  Free ROM (bytes): 32624 (99%)	Used ROM (bytes): 144 (1%)  Free ROM (bytes): 32624 (99%)
+diagnostics: 0	125	Project Linked Successfully	pwm.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'pwm.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 18 Þub 2023, 14:33:39	pwm.mcppi

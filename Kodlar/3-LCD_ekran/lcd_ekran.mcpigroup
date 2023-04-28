@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\1-Blink_Buton\blink_buton.mcppi
+Project1=..\2-7Segment\display.mcppi
+Project2=lcd_ekran.mcppi
+[ActiveProject]
+Index=2
